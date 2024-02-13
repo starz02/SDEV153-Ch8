@@ -1,7 +1,6 @@
 body {font-family: Verdana, Arial, sans-serif;color: #666666;background-color: #FFFFFF; margin: 0;}
 * { box-sizing: border-box; }
 header { background-color: #002171;
-    background-image: url(sunset.jpg);
     background-position: right; background-repeat: no-repeat; 
     color: #FFFFFF; padding: 1em;}
 header nav a {text-decoration: none; color: #FFFFFF;}
